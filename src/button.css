@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+.App-button {
+    width: 300px;
+    height: 45px;
+    margin: 30px;
+    border-width: 3px;
+    border-style: solid;
+    box-sizing: border-box;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #button-clear {
+    background-color: #000000;
+    border-color: #FFFFFF;
+  }
+  
+  #button-green {
+    background-color: #29BF89;
+    border-color: #29BF89
+  }
+  
+  #button-white {
+    background-color: #FAFAFA;
+    border-color: #FAFAFA;
+  }
+  
+  #button-clearAlt {
+    background-color: #000000;
+    border-color: #29BF89;
+  }
+  
+  .App-button-text {
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  
+  #button-text-white {
+    color: #FFFFFF;
+  }
+  
+  #button-text-green {
+    color: #29BF89;
+  }
+  
+  #button-text-grey {
+    color: #CFD8DC;
+  }
